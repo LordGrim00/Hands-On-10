@@ -11,7 +11,7 @@ This project implements a hash table data structure using Python, featuring:
 
 ## Project Structure
 
-Users/namrapatel/Documents/Collage/Daa_Namra
+Users/namrapatel/Documents/Collage/Daa_Namra/Hands-On-10
 │
 ├── hash_table.py          # Contains the HashTable and DoublyLinkedListNode classes
 ├── doubly_linked_list.py  # Contains the DoublyLinkedList class
